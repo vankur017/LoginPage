@@ -1,0 +1,1 @@
+export const DXC_LOGO = 'https://product-sandbox-0714.sandbox.assure.dxc.com/app/img/dxc_logo.png'

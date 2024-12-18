@@ -1,0 +1,25 @@
+[debug] [2024-12-18T08:38:32.459Z] ----------------------------------------------------------------------
+[debug] [2024-12-18T08:38:32.463Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\averma289\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-12-18T08:38:32.464Z] CLI Version:   13.29.1
+[debug] [2024-12-18T08:38:32.464Z] Platform:      win32
+[debug] [2024-12-18T08:38:32.464Z] Node Version:  v22.0.0
+[debug] [2024-12-18T08:38:32.464Z] Time:          Wed Dec 18 2024 14:08:32 GMT+0530 (India Standard Time)
+[debug] [2024-12-18T08:38:32.464Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-12-18T08:38:32.477Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-12-18T08:38:32.477Z] > authorizing via signed-in user (iamankurverma0@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\my_repos\halstack_workspace
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+
